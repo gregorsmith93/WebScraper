@@ -1,0 +1,5 @@
+dependencies {
+
+    compile project(':WebScraper.Controller.Model')
+    compile project(':WebScraper.Domain')
+}

@@ -1,0 +1,9 @@
+dependencies {
+
+    compile project(':WebScraper.Integration.Model')
+    compile project(':WebScraper.Domain')
+    compile project(':WebScraper.Integration.Mapper')
+    
+    compile group: 'org.jsoup', name: 'jsoup', version: '1.11.3'
+    
+}
